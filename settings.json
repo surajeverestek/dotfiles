@@ -1,0 +1,53 @@
+{
+    "outline.showEvents": false,
+    "outline.showKeys": false,
+    "outline.showOperators": false,
+    "outline.showTypeParameters": false,
+    "editor.fontSize": 24,
+    "editor.lineNumbers": "relative",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "vim.foldfix": true,
+    "editor.minimap.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "explorer.openEditors.visible": 0,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.menuBarVisibility": "compact",
+    "files.exclude": {
+        "**/.cache": true,
+        "**/node_modules": true,
+        "**/public": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.tabSize": 2,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "zentabs.maximumOpenedTabs": 5,
+    "search.maxResults": 1000,
+    "search.showLineNumbers": true,
+    "search.sortOrder": "type",
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "vim.showMarksInGutter": true,
+    "scm.diffDecorationsGutterPattern": {
+        "added": true
+    },
+    "git.mergeEditor": true,
+    "outline.showArrays": false,
+    "outline.showBooleans": false,
+    "outline.showNull": false,
+    "outline.showStrings": false,
+    "outline.showVariables": false,
+    "outline.showProperties": false,
+    "editor.inlayHints.enabled": "off",
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "off",
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairs": false,
+    "blockman.n31RenderIncrementBeforeAndAfterVisibleRange": 30,
+    "blockman.n04Sub01ColorComboPresetForDarkTheme": "Classic Dark 1 (Super gradients)",
+    "blockman.n04Sub02ColorComboPresetForLightTheme": "Classic Dark 2 (Solid colors)"
+}
